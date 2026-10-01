@@ -1,0 +1,15 @@
+name: Hacer una consulta
+description: Pregunta o solicitud de información.
+labels: ["question"]
+body:
+  - type: textarea
+    id: consulta
+    attributes:
+      label: Consulta
+    validations:
+      required: true
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto
+      description: Para qué lo necesitas o qué intentaste.
