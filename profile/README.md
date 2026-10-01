@@ -1,6 +1,6 @@
 # Grupo Evans
 
-Estudio con foco en proyectos de infraestructura, energía, medio ambiente y sostenibilidad.
+Estudio multidisciplinario de abogados e ingenieros que asesora en asuntos jurídicos y estratégicos vinculados al desarrollo y licenciamiento de proyectos de infraestructura, inmobiliarios y de aprovechamiento de recursos naturales.
 
 [Sitio web](https://www.grupoevans.cl/) · [LinkedIn](https://www.linkedin.com/company/grupoevans)
 
