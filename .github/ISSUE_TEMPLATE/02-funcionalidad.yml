@@ -1,0 +1,26 @@
+name: Solicitar una funcionalidad
+description: Propón algo nuevo o una mejora.
+labels: ["feature"]
+body:
+  - type: textarea
+    id: necesidad
+    attributes:
+      label: ¿Qué necesitas?
+      description: Describe la necesidad o el problema que resolvería, no necesariamente la solución.
+    validations:
+      required: true
+  - type: textarea
+    id: beneficio
+    attributes:
+      label: ¿A quién beneficia y cómo?
+    validations:
+      required: true
+  - type: textarea
+    id: propuesta
+    attributes:
+      label: Propuesta de solución (opcional)
+  - type: input
+    id: fecha
+    attributes:
+      label: ¿Hay una fecha límite?
+      placeholder: Por ejemplo, cierre de mes
