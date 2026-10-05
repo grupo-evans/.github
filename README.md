@@ -1,14 +1,14 @@
 # .github
 
-Default community files and public profile for the Grupo Evans organization. GitHub applies these files to every repository in the organization that does not define its own.
+Archivos de comunidad por defecto y perfil público de la organización Grupo Evans. GitHub aplica estos archivos a todos los repositorios de la organización que no definan los suyos.
 
-| Path | Purpose |
+| Ruta | Propósito |
 | --- | --- |
-| `profile/README.md` | Public organization profile |
-| `.github/ISSUE_TEMPLATE/` | Default issue forms (Spanish) |
-| `pull_request_template.md` | Default pull request template |
-| `CONTRIBUTING.md` | Contributing guide |
+| `profile/README.md` | Perfil público de la organización |
+| `.github/ISSUE_TEMPLATE/` | Formularios de issues por defecto |
+| `pull_request_template.md` | Plantilla de pull request por defecto |
+| `CONTRIBUTING.md` | Guía de contribución |
 
-Labels set by the issue forms (`bug`, `feature`, `question`) must exist in each repository that uses them.
+Las labels que asignan los formularios de issues (`bug`, `feature`, `question`) deben existir en cada repositorio que los use.
 
-To change anything here, open a pull request to `main`. See [CONTRIBUTING.md](CONTRIBUTING.md).
+Para cambiar algo aquí, abre un pull request hacia `main`. Revisa [CONTRIBUTING.md](CONTRIBUTING.md).

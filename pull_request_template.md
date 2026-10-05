@@ -1,18 +1,18 @@
-## What
+## Qué
 
-<!-- What does this change do, in one or two sentences? -->
+<!-- ¿Qué hace este cambio? En una o dos oraciones. -->
 
-## Why
+## Por qué
 
-<!-- Link the issue (e.g. Closes #123) or explain the motivation. -->
+<!-- Enlaza el issue (por ejemplo, Closes #123) o explica la motivación. -->
 
-## How to test
+## Cómo probar
 
-<!-- Steps a reviewer can follow to verify the change. -->
+<!-- Pasos que puede seguir quien revisa para verificar el cambio. -->
 
 ## Checklist
 
-- [ ] Commits follow Conventional Commits (`feat:`, `fix:`, `chore:` ...)
-- [ ] Tests added or updated where it makes sense
-- [ ] Documentation updated (README, CLAUDE.md, or Spanish user docs) if behavior changed
-- [ ] No secrets, credentials or personal data in the diff
+- [ ] Los commits siguen Conventional Commits (`feat:`, `fix:`, `chore:` ...)
+- [ ] Se agregaron o actualizaron tests donde corresponde
+- [ ] Se actualizó la documentación (README, CLAUDE.md u otra) si cambió el comportamiento
+- [ ] El diff no contiene secretos, credenciales ni datos personales

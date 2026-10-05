@@ -4,8 +4,6 @@ Estudio multidisciplinario de abogados e ingenieros que asesora en asuntos jurí
 
 [Sitio web](https://www.grupoevans.cl/) · [LinkedIn](https://www.linkedin.com/company/grupoevans)
 
-## Repositorios
+## Acceso
 
-Repositorios de desarrollo de Grupo Evans.
-
-El acceso a los repositorios es privado y se otorga por equipo. Para solicitar acceso, contacta al área de Administración.
+Los repositorios son privados y el acceso se otorga por equipo. Para solicitarlo, contacta al área de Administración.
